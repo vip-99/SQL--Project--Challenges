@@ -120,9 +120,9 @@ JOIN sales s
 
 ON c.car_id=s.car_id
 
-WHERE style='Hatchback'
+GROUP BY style
 
-GROUP BY style;
+HAVING style='Hatchback';
 
 
 
@@ -168,7 +168,7 @@ LIMIT 1;
 10 What is the name and age of the salesperson who generated the highest revenue in the year 2022?
 
 
-SELECT sp.salesman_id,sp.name,sp.age,s.purchase_date,SUM(cost_$) AS total_revenue 
+SELECT sp.salesman_id,sp.name,sp.age,s.purchase_date,SUM(cost_$) AS highest_revenue 
 
 FROM salespersons sp 
 
@@ -184,7 +184,7 @@ WHERE EXTRACT(YEAR FROM purchase_date)='2022'
 
 GROUP BY sp.salesman_id,name,age,purchase_date
 
-ORDER BY total_revenue desc
+ORDER BY highest_revenue desc
 
 LIMIT 1;
 
