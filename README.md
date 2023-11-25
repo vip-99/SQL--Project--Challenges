@@ -1,7 +1,7 @@
-# SQL-Project-Challenge
+# SQL-Project-Challenges
 
 
- SQL challenge  Steve's Car Showroom 🚗 (https://github.com/vip-99/SQL-Project-Challenges/blob/main/SQL%20Challenge.sql)
+ SQL challenge 1  Steve's Car Showroom 🚗 (https://github.com/vip-99/SQL-Project-Challenges/blob/main/SQL%20Challenge.sql)
  Tool Used      :- PostgreSQL & Power Point
 
 
