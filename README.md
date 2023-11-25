@@ -2,12 +2,14 @@
 
 
  SQL challenge 1  Steve's Car Showroom 🚗. (https://github.com/vip-99/SQL-Project-Challenges/blob/main/SQL%20Challenge.sql)
+ 
  Tool Used      :- PostgreSQL & Power Point
 
 
 
 I used following concept and clause :-
 SELECT, WHERE, SUM, COUNT, JOIN, GROUP BY, HAVING, ORDER BY ASC/DESC, LIMIT
+
 
 
 Key Insight:
@@ -25,13 +27,17 @@ Key Insight:
 
 
  SQL challenge 2  'Esports Tournament'🎮. (https://github.com/vip-99/SQL-Project-Challenges/blob/main/SQL%20challenge%202.sql)
+
+
 Tool Used       :- PostgreSQL & Power Point
+
 
 
 
 I used following concept and clause :- SELECT, WHERE, SUM, COUNT, JOIN, GROUP BY, HAVING, ORDER BY ASC/DESC, LIMIT
 
 
+ 
  🔵 Key Insights :-
 
 🔸Team 'SK Telecom T1' won most of the matches(4 Times)
