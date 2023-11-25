@@ -45,3 +45,34 @@ I used following concept and clause :- SELECT, WHERE, SUM, COUNT, JOIN, GROUP BY
 🔸Average salary of players in the teams with country 'USA' is 97166.
 
 🔸Every team has 3 players each.
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+SQL challenge -3 "Customer Insights" (https://github.com/vip-99/SQL-Project-Challenges/blob/main/SQL%20Challenge%203.sql)
+
+
+
+This challenge is to analyze the following data to find out crucial information about the customers and provide to marketing team. 
+
+Tool Used           :- PostgreSQL & Canva For Presentation
+
+
+Following clause  used are:-  SELECT, WHERE, SUM, COUNT, JOIN, GROUP BY,ORDER BY ASC/DESC, LIMIT
+
+
+
+
+
+
+
+
+
+
